@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WIFI GEOLOCATION</string>
+    <string name="wifi_scan">WIFI SCAN</string>
+    <string name="plume_design">Plume design</string>
+    <string name="find_me">FIND ME</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="scan">Scan Wifi</string>
+    <string name="button1">SCAN WIFI</string>
+    <string name="button2">FIND ME</string>
+    <string name="logo">Logo</string>
+</resources>
